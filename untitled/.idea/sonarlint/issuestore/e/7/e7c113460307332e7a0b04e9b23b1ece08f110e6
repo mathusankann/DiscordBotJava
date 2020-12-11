@@ -1,0 +1,15 @@
+
+p	java:S116"VRename this field "JDBC_Driver" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é¾£øÿÿÿÿ
+n
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(á¨Ú
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(ç÷ÛÎøÿÿÿÿ
+^
+java:S20952"HUse try-with-resources or close this "Connection" in a "finally" clause.(ôşü
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(ê­ºŞ
+S	java:S106="9Replace this use of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿ
+?
+java:S21152")Add password protection to this database.(ôşü
+b
+java:S20953"GUse try-with-resources or close this "Statement" in a "finally" clause.(ìï‡Àûÿÿÿÿ
+f	java:S116	"QRename this field "DB_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸•¹…
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(â˜Ğäıÿÿÿÿ

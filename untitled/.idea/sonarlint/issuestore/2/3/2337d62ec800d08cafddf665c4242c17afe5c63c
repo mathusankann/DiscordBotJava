@@ -1,0 +1,33 @@
+
+c
+java:S2142Z"FEither re-interrupt this method or rethrow the "InterruptedException".(òž¶È8ˆˆê—ä.
+L
+java:S1066ˆ"/Merge this if statement with the enclosing one.(Ó¨‡<8ˆˆê—ä.
+T
+java:S1854""7Remove this useless assignment to local variable "jda".(¡•®ð8âºÖŽä.
+N
+java:S1135,"2Complete the task associated to this TODO comment.(ÝÂ®(8õ‘ð“ä.
+Z	java:S106}"9Replace this use of System.out or System.err by a logger.(º‘›Éúÿÿÿÿ8ˆˆê—ä.
+t
+java:S3776&"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ÌÁë©þÿÿÿÿ8ß”•ä.
+Z	java:S106`"9Replace this use of System.out or System.err by a logger.(ííÖÿÿÿÿÿ8œóÙŒå.
+C	java:S131(""Add a default case to this switch.(ÝóŸ¿øÿÿÿÿ8„³­•ä.
+U	java:S106v"9Replace this use of System.out or System.err by a logger.(ëôßÊ8ˆˆê—ä.
+[	java:S106Œ"9Replace this use of System.out or System.err by a logger.(º‘›Éúÿÿÿÿ8ˆˆê—ä.
+F
+java:S5413H")Verify that "remove()" is used correctly.(ó­Âß8ˆˆê—ä.
+R
+java:S1854_"5Remove this useless assignment to local variable "g".(¨ÓÉÕ8œóÙŒå.
+7
+java:S1170"!Make this final field static too.(å‘¯Á
+[	java:S106š"9Replace this use of System.out or System.err by a logger.(Å­ËÝúÿÿÿÿ8ˆˆê—ä.
+c
+java:S2142Q"FEither re-interrupt this method or rethrow the "InterruptedException".(òž¶È8ˆˆê—ä.
+E
+java:S1481""(Remove this unused "jda" local variable.(¡•®ð8âºÖŽä.
+Ÿ
+java:S1186”"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÍñÆ±8›ïþå.
+f	java:S116"QRename this field "PREFIX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å‘¯Á
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(â˜Ðäýÿÿÿÿ
+R
+java:S1117_"5Rename "g" which hides the field declared at line 30.(¨ÓÉÕ8ôéãå.
